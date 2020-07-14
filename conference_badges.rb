@@ -23,7 +23,7 @@ def printer(attendees)
   printer[]
   badges_and_room_assignments.each_line do |line|
     badges_and_room_assignments<< ("Hello, my name is #{name}.")
-    
+    badges_and_room_assignments<< ()
 
   
 end
