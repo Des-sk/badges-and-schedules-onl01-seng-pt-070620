@@ -24,3 +24,5 @@ def printer (attendees)
     puts 
   end
 end
+
+
