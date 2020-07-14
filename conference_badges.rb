@@ -25,4 +25,6 @@ def printer(attendees)
     badges_and_room_assignments<< ("Hello, my name is #{name}.")
     badges_and_room_assignments<< ("You'll be assigned to room #{index+1}!")
 end
+printer
+end
 
