@@ -19,7 +19,7 @@ def assign_rooms(attendees)
   rooms 
 end
 
-def printer(name,rooms)
+def printer(attendees,rooms)
   printer=[]
   badges_and_room_assignments.each_line do |line|
     puts badges_and_room_assignments<< ("Hello, my name is #{name}")
